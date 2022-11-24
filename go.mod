@@ -1,4 +1,4 @@
-module github.com/mmcdole/gofeed
+module github.com/arch-tek/gofeed
 
 go 1.14
 
